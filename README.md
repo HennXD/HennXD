@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HennXD</h1>
 <h3 align="center">I'm from Indonesia</h3>
 
-![alt text](?raw=true) 
+![alt text](https://github.com/HennXD/HennXD/blob/main/Disney_pixar_movie_poster_that_say_HennXDhe_i.jpg?raw=true) 
 
 <h3 align="left">Hubungi Saya:</h3>
 <p align="left">
